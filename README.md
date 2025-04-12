@@ -67,4 +67,3 @@ Feel free to fork this repository and submit pull requests to improve or add new
 
 <p> Made with ❤️ by aditya.<br>
 Took help from Krish Naik Sir's videos.</p>
----
